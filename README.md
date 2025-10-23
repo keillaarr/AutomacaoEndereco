@@ -14,18 +14,6 @@ Script desenvolvido para automatizar a extração de dados do banco **Oracle** e
 -  **Tratamento de erros:** captura exceções e realiza `rollback` seguro em caso de falhas.  
 -  **Fechamento seguro das conexões** (Oracle e PostgreSQL).
 
----
-
-##  Estrutura
-
-AutomacaoEndereco/
-├── carga_endereco.py # Script principal
-├── carga_endereco.log # Log de execução (gerado automaticamente)
-└── README.md # Este arquivo
-
-
-
----
 
 ## Pré-requisitos
 
@@ -82,4 +70,5 @@ Desenvolvido por Keilla Arruda
 
 Este projeto é de uso interno e educacional.
 Sinta-se à vontade para adaptar e reutilizar a estrutura para outros processos de automação.
+
 
