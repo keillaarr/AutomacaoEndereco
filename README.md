@@ -65,10 +65,12 @@ Exemplo:
 
 ## Autora
 Desenvolvido por Keilla Arruda
+Fullstack Developer | Automação e Integração de Sistemas
 
 ## Licença
 
 Este projeto é de uso interno e educacional.
 Sinta-se à vontade para adaptar e reutilizar a estrutura para outros processos de automação.
+
 
 
