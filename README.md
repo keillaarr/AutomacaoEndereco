@@ -1,10 +1,10 @@
-# 🚀 Automação de Carga de Endereços Oracle → PostgreSQL
+# Automação de Carga de Endereços Oracle → PostgreSQL
 
 Script desenvolvido para automatizar a extração de dados do banco **Oracle** e realizar a **carga (upsert)** no **PostgreSQL**, garantindo sincronização segura e eficiente das informações de endereço, telefone e e-mail das pessoas.
 
 ---
 
-## 🧩 Funcionalidades
+##  Funcionalidades
 
 -  **Extração Oracle:** realiza consulta SQL complexa com `WITH` e `LEFT JOIN` para consolidar dados de endereço, telefone e e-mail.  
 -  **Normalização de dados:** remove caracteres indesejados e trata campos nulos.  
@@ -27,7 +27,7 @@ AutomacaoEndereco/
 
 ---
 
-## ⚙️ Pré-requisitos
+## Pré-requisitos
 
 Antes de executar o script, instale as dependências:
 
@@ -82,3 +82,4 @@ Desenvolvido por Keilla Arruda
 
 Este projeto é de uso interno e educacional.
 Sinta-se à vontade para adaptar e reutilizar a estrutura para outros processos de automação.
+
